@@ -1,2 +1,2 @@
 
-https://Ashgh89.github.io/react-pizza-app
+https://Ashgh89.github.io/react-pizza-app/

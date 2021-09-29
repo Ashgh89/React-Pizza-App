@@ -29,3 +29,9 @@
   object-fit: cover;
   transform: rotateZ(-5deg) translateY(-4rem) translateX(-1rem);
 }
+
+@media only screen and (max-width: 502px) {
+  .header h1 {
+    font-size: 0.9rem;
+  }
+}
